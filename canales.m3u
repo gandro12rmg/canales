@@ -1,34 +1,83 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/bayres-tv.png" group-title="AMBA", Bayres TV
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERIES Y PELICULAS",PLANETA MOVIES
+https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/logo-neo-tv_orig.png" group-title="AMBA", NEO TV DIGITAL  16.1
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Perú_-_Logo_2019_Reducido_(TVPE).svg/1200px-Tv_Perú_-_Logo_2019_Reducido_(TVPE).svg.png" group-title="PERU",TV PERU
+https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
 
-#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1311657809705078786/x-uG8jST_400x400.jpg" group-title="NACIONALES", PAKA PAKA  22.2
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Tv_Perú_Internacional_-_Logo_2019_Reducido.svg/800px-Tv_Perú_Internacional_-_Logo_2019_Reducido.svg.png" group-title="PERU",TV PERU INTERNACIONAL
+https://cdnh74.iblups.com/hls/irtp.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409840532529029128/jDV8aWP-_400x400.jpg" group-title="NACIONALES", CIUDAD MAGAZINE
-https://edge-vod01-hr.cvattv.com.ar//live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/TV_Perú_Noticias_-_2019_logo.png" group-title="PERU",TV PERU NOTICIAS 
+http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title="AMBA", GEN TV  17.4
-https://videohd.live:19360/8010/8010.m3u8
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/43/43451/1752-640x360-FFFFFF.jpg" group-title="PERU",PERU CHANNEL
+https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="NACIONALES", CANAL 9  35.1
+#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/default/files/default-horario.jpg" group-title="PERU",CANAL IPE
+https://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="ARGENTINA", CANAL 9  35.1
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
 
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="http://x.playerlatino.live/telefe.png" group-title="NACIONALES", TELEFE  34.1
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8 
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/bayres-tv.png" group-title="ARGENTINA", Bayres TV
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
+#EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/logo-neo-tv_orig.png" group-title="ARGENTINA", NEO TV DIGITAL 
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1344843564535132160/xT96d8Zv_400x400.jpg" group-title="NACIONALES", CANAL 13  33.1 
-https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
+====================================================================================================================
+AGREGADO POR RAUL
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/SxFDTWadD_WzvUOKUlPc0n7ZS20-Gatw3OSr1WY2zyuBxZClf2aomcpg9EoVuYZHuHI" group-title="DEPORTE", CIUDAD MAGICA TV
-https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
+#EXTINF:-1 tvg-id=" 0 "group="ARGENTINA"tvg-logo="https://pbs.twimg.com/profile_images/1311657809705078786/x-uG8jST_400x400.jpg"tvg-country="AR", 0 PAKA PAKA 
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
+#EXTINF:-1 tvg-id=" 1 "group="PERU"tvg-logo="https://www.m3u.cl/logo/488_Anime_Zone_TV.png"tvg-country="PE", 1 Anime Zone TV
+http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id=" 11 "group="PERU"tvg-logo="https://www.canalipe.tv/sites/default/themes/concise_drupal/static/media/header/canalipe.svg", 11 Ipe
+https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
 
+#EXTINF:-1 tvg-id=" 12 "group="PERU"tvg-logo="https://www.m3u.cl/logo/496_Canal_IPE.png", 12 Ipe 2
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
+#EXTINF:-1 tvg-id=" 18 "group="PERU"tvg-logo="https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg", 18 Bhtv HD
+https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/chunklist_w1998067169.m3u8
+
+#EXTINF:-1 tvg-id=" 20 "group="PERU"tvg-logo="http://zoetv.peru15.com/media/k2/items/cache/e2bf3b11df0b872112757f1c2fee6e32_S.jpg", 20 Pax TV Evangelico
+http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist_b1735000.m3u8
+
+#EXTINF:-1 tvg-id=" 21 "group="PERU"tvg-logo="https://www.m3u.cl/logo/698_Monterrico_TV.png", 21 Monterrico TV
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id=" 22 "group="PERU"tvg-logo="http://zoetv.peru15.com/media/k2/items/cache/ccb4e23c8aa216f1e96d31ab209c036b_S.jpg", 22 Ovacion
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/chunklist_w1565290423.m3u8
+
+#EXTINF:-1 tvg-id=" 29 "group="PERU"tvg-logo="https://www.jssor.com/andre89/tv-antares.png", 29 AntaresTV Music
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id=" 31 "group="PERU"tvg-logo="https://i0.wp.com/radiokaribena.pe/portal2020/wp-content/uploads/2020/03/00000001-1.png", 31 Karibeña TV
+https://cu.onliv3.com/livevd/user1_low/index.m3u8
+
+#EXTINF:-1 tvg-id=" 33 "group="PERU"tvg-logo="https://www.m3u.cl/logo/35_TOP_Latino_TV.png", 33 TOP Latino TV
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/chunklist_w1861318767.m3u8
+
+#EXTINF:-1 tvg-id=" 34 "group="PERU"tvg-logo="http://tvperuanisima.com/wp-content/uploads/2021/07/cropped-Logo-150x113-1.png", 34 TVperuanisima Music
+http://k4.usastreams.com/TVperuanisima/TVperuanisima/chunklist_w1876556398.m3u8
+
+#EXTINF:-1 tvg-id=" 35 "group="PERU"tvg-logo="https://www.m3u.cl/logo/43_Turbo_Mix_TV.png", 35 Turbo Mix TV
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+
+#EXTINF:-1 tvg-id=" 37 "group="PERU"tvg-logo="https://assets-global.website-files.com/60467fdad665324c974b586c/6047d83ae30053f65575f203_zpm-typelogo%20(1).svg", 37 Zapping Music
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id=" 38 "group="PERU"tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png", 38 UCL Televisión LATAM
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu_4.m3u8?m=1623764312
+
+#EXTINF:-1 tvg-id=" 41 "group="PERU"tvg-logo="https://www.m3u.cl/logo/806_HispanTV.png", 41 HispanTV | IR
+https://live.presstv.ir/live/smil:live.smil/hispan.m3u8
+
+#EXTINF:-1 tvg-id=" 47 "group="PERU"tvg-logo="https://www.m3u.cl/logo/704_Central_TV_Chosica.png", 47 Central TV Chosica Pelicula 
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
