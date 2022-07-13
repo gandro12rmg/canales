@@ -33,7 +33,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id=" 0 "group="ARGENTINA"tvg-logo="https://pbs.twimg.com/profile_images/1311657809705078786/x-uG8jST_400x400.jpg"tvg-country="AR", 0 PAKA PAKA 
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
-#EXTINF:-1 tvg-id=" 1 group-title="PERU"tvg-logo="https://www.m3u.cl/logo/488_Anime_Zone_TV.png"tvg-country="PE", 1 Anime Zone TV
+#EXTINF:-1 tvg-id=" 1 "group-title="PERU"tvg-logo="https://www.m3u.cl/logo/488_Anime_Zone_TV.png"tvg-country="PE", 1 Anime Zone TV
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id=" 11 "group="PERU"tvg-logo="https://www.canalipe.tv/sites/default/themes/concise_drupal/static/media/header/canalipe.svg", 11 Ipe
