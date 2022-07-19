@@ -20,6 +20,376 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 ====================================================================================================================
 ****** AGREGADO POR RAUL ******
 
+#EXTINF:-1 tvg-id="" tvg-name="26 | CANAL IPE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="PERU",26 | CANAL IPE HD
+http://00322.xyz:8000/malotv/gratis/148542
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="13 | TV PERU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="PERU",13 | TV PERU
+http://00322.xyz:8000/malotv/gratis/3336
+#EXTINF:-1 tvg-id="ATV.pe" tvg-name="03 | ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png" group-title="PERU",03 | ATV
+http://00322.xyz:8000/malotv/gratis/3320
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="19 | PANAMERICANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" group-title="PERU",19 | PANAMERICANA
+http://00322.xyz:8000/malotv/gratis/3351
+#EXTINF:-1 tvg-id="" tvg-name="11 | CANAL N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Canal_N.png" group-title="PERU",11 | CANAL N
+http://00322.xyz:8000/malotv/gratis/3331
+#EXTINF:-1 tvg-id="Latina.pe" tvg-name="06 | LATINA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo-latina-2014.png" group-title="PERU",06 | LATINA 
+http://00322.xyz:8000/malotv/gratis/3326
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="18 | PANAMERICANA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" group-title="PERU",18 | PANAMERICANA HD
+#EXTINF:-1 tvg-id="" tvg-name="42 | GOL PERU HD" tvg-logo="https://brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="PERU" | GOL PERU HD
+http://00322.xyz:8000/malotv/gratis/145450
+#EXTINF:-1 tvg-id="" tvg-name="Antares Televisión HD *" tvg-logo="" group-title="PERU",Antares Televisión HD *
+http://00322.xyz:8000/malotv/gratis/151451
+#EXTINF:-1 tvg-id="" tvg-name="AsiriTV (Lima) HD *" tvg-logo="" group-title="PERU",AsiriTV (Lima) HD *
+http://00322.xyz:8000/malotv/gratis/151452
+#EXTINF:-1 tvg-id="ATVSur.pe" tvg-name="ATV SDT *" tvg-logo="" group-title="PERU",ATV SDT *
+http://00322.xyz:8000/malotv/gratis/151454
+#EXTINF:-1 tvg-id="" tvg-name="Bella Asuncion TV HD *" tvg-logo="" group-title="PERU",Bella Asuncion TV HD *
+http://00322.xyz:8000/malotv/gratis/151456
+#EXTINF:-1 tvg-id="" tvg-name="Best Cable Más Cumbia HD *" tvg-logo="" group-title="PERU",Best Cable Más Cumbia HD *
+http://00322.xyz:8000/malotv/gratis/151457
+#EXTINF:-1 tvg-id="" tvg-name="Best Cable Music HD *" tvg-logo="" group-title="PERU",Best Cable Music HD *
+http://00322.xyz:8000/malotv/gratis/151458
+#EXTINF:-1 tvg-id="" tvg-name="Best Cable Perú HD *" tvg-logo="" group-title="PERU",Best Cable Perú HD *
+http://00322.xyz:8000/malotv/gratis/151459
+#EXTINF:-1 tvg-id="" tvg-name="Best Cable Sports Perú HD *" tvg-logo="" group-title="PERU",Best Cable Sports Perú HD *
+http://00322.xyz:8000/malotv/gratis/151460
+#EXTINF:-1 tvg-id="BethelTV.pe" tvg-name="Bethel TV HD *" tvg-logo="" group-title="PERU",Bethel TV HD *
+http://00322.xyz:8000/malotv/gratis/151461
+#EXTINF:-1 tvg-id="" tvg-name="BHTV HD *" tvg-logo="" group-title="PERU",BHTV HD *
+http://00322.xyz:8000/malotv/gratis/151463
+#EXTINF:-1 tvg-id="" tvg-name="Cajamarca TV SDT *" tvg-logo="" group-title="PERU",Cajamarca TV SDT *
+http://00322.xyz:8000/malotv/gratis/151465
+#EXTINF:-1 tvg-id="" tvg-name="Canal 8 (Catacaos) SD *" tvg-logo="" group-title="PERU",Canal 8 (Catacaos) SD *
+http://00322.xyz:8000/malotv/gratis/151466
+#EXTINF:-1 tvg-id="" tvg-name="LOTPLUS TV (Nororiente) HD *" tvg-logo="" group-title="PERU",LOTPLUS TV (Nororiente) HD *
+http://00322.xyz:8000/malotv/gratis/151468
+#EXTINF:-1 tvg-id="" tvg-name="Canal PERUANISIMA TV *" tvg-logo="" group-title="PERU",Canal PERUANISIMA TV *
+http://00322.xyz:8000/malotv/gratis/151469
+#EXTINF:-1 tvg-id="" tvg-name="CANAL IPE" tvg-logo="" group-title="PERU",CANAL IPE
+http://00322.xyz:8000/malotv/gratis/151470
+#EXTINF:-1 tvg-id="" tvg-name="Chicos IPe FHD *" tvg-logo="" group-title="PERU",Chicos IPe FHD *
+http://00322.xyz:8000/malotv/gratis/151472
+#EXTINF:-1 tvg-id="" tvg-name="ClipsTV (Ica) SD *" tvg-logo="" group-title="PERU",ClipsTV (Ica) SD *
+http://00322.xyz:8000/malotv/gratis/151473
+#EXTINF:-1 tvg-id="" tvg-name="CNC (Cajamarca) HD" tvg-logo="" group-title="PERU",CNC (Cajamarca) HD
+http://00322.xyz:8000/malotv/gratis/151475
+#EXTINF:-1 tvg-id="" tvg-name="CNC Digital (Iquitos) SDT *" tvg-logo="" group-title="PERU",CNC Digital (Iquitos) SDT *
+http://00322.xyz:8000/malotv/gratis/151476
+#EXTINF:-1 tvg-id="" tvg-name="Cable Netword TV SDT *" tvg-logo="" group-title="PERU",Cable Netword TV SDT *
+http://00322.xyz:8000/malotv/gratis/151478
+#EXTINF:-1 tvg-id="" tvg-name="Conecta2TV (Lima) HD *" tvg-logo="" group-title="PERU",Conecta2TV (Lima) HD *
+http://00322.xyz:8000/malotv/gratis/151479
+#EXTINF:-1 tvg-id="" tvg-name="Controversia TV (Moyobamba) HD *" tvg-logo="" group-title="PERU",Controversia TV (Moyobamba) HD *
+http://00322.xyz:8000/malotv/gratis/151480
+#EXTINF:-1 tvg-id="" tvg-name="CreoTV (Cajamarca) HD *" tvg-logo="" group-title="PERU",CreoTV (Cajamarca) HD *
+http://00322.xyz:8000/malotv/gratis/151481
+#EXTINF:-1 tvg-id="" tvg-name="CR Television (Moyobamba) HD *" tvg-logo="" group-title="PERU",CR Television (Moyobamba) HD *
+http://00322.xyz:8000/malotv/gratis/151482
+#EXTINF:-1 tvg-id="" tvg-name="CTC HD" tvg-logo="" group-title="PERU",CTC HD
+http://00322.xyz:8000/malotv/gratis/151483
+#EXTINF:-1 tvg-id="" tvg-name="Cultura 24 SD *" tvg-logo="" group-title="PERU",Cultura 24 SD *
+http://00322.xyz:8000/malotv/gratis/151484
+#EXTINF:-1 tvg-id="" tvg-name="CVM TV Digital HD *" tvg-logo="" group-title="PERU",CVM TV Digital HD *
+http://00322.xyz:8000/malotv/gratis/151485
+#EXTINF:-1 tvg-id="" tvg-name="Diario Hechicera (Tumbes) HD *" tvg-logo="" group-title="PERU",Diario Hechicera (Tumbes) HD *
+http://00322.xyz:8000/malotv/gratis/151487
+#EXTINF:-1 tvg-id="" tvg-name="DMJ (Cuzco) HD *" tvg-logo="" group-title="PERU",DMJ (Cuzco) HD *
+http://00322.xyz:8000/malotv/gratis/151488
+#EXTINF:-1 tvg-id="" tvg-name="Exitosa TV HD" tvg-logo="" group-title="PERU",Exitosa TV HD
+http://00322.xyz:8000/malotv/gratis/151490
+#EXTINF:-1 tvg-id="" tvg-name="Expresión (Tacna) HD *" tvg-logo="" group-title="PERU",Expresión (Tacna) HD *
+http://00322.xyz:8000/malotv/gratis/151491
+#EXTINF:-1 tvg-id="" tvg-name="FuegoTV (Lima) HD *" tvg-logo="" group-title="PERU",FuegoTV (Lima) HD *
+http://00322.xyz:8000/malotv/gratis/151492
+#EXTINF:-1 tvg-id="" tvg-name="Galáctica TV (Peru) FHD *" tvg-logo="" group-title="PERU",Galáctica TV (Peru) FHD *
+http://00322.xyz:8000/malotv/gratis/151495
+#EXTINF:-1 tvg-id="" tvg-name="Genios TV (Moyobamba) HD *" tvg-logo="" group-title="PERU",Genios TV (Moyobamba) HD *
+http://00322.xyz:8000/malotv/gratis/151496
+#EXTINF:-1 tvg-id="" tvg-name="Hatun TV HD *" tvg-logo="" group-title="PERU",Hatun TV HD *
+http://00322.xyz:8000/malotv/gratis/151499
+#EXTINF:-1 tvg-id="" tvg-name="Hoynet SDT *" tvg-logo="" group-title="PERU",Hoynet SDT *
+http://00322.xyz:8000/malotv/gratis/151500
+#EXTINF:-1 tvg-id="" tvg-name="Huacho Perú TV HD *" tvg-logo="" group-title="PERU",Huacho Perú TV HD *
+http://00322.xyz:8000/malotv/gratis/151501
+#EXTINF:-1 tvg-id="" tvg-name="Huacho Perú TV HD" tvg-logo="" group-title="PERU",Huacho Perú TV HD
+http://00322.xyz:8000/malotv/gratis/151502
+#EXTINF:-1 tvg-id="" tvg-name="Huánuco en Vivo SDT *" tvg-logo="" group-title="PERU",Huánuco en Vivo SDT *
+http://00322.xyz:8000/malotv/gratis/151504
+#EXTINF:-1 tvg-id="" tvg-name="Identidad TV HD *" tvg-logo="" group-title="PERU",Identidad TV HD *
+http://00322.xyz:8000/malotv/gratis/151505
+#EXTINF:-1 tvg-id="" tvg-name="Imagen Televisión (Rioja) HD *" tvg-logo="" group-title="PERU",Imagen Televisión (Rioja) HD *
+http://00322.xyz:8000/malotv/gratis/151506
+#EXTINF:-1 tvg-id="" tvg-name="Impacto Televisión (Cajamarca) HD" tvg-logo="" group-title="PERU",Impacto Televisión (Cajamarca) HD
+http://00322.xyz:8000/malotv/gratis/151507
+#EXTINF:-1 tvg-id="" tvg-name="Imperial Televisión (Huancayo) HD *" tvg-logo="" group-title="PERU",Imperial Televisión (Huancayo) HD *
+http://00322.xyz:8000/malotv/gratis/151508
+#EXTINF:-1 tvg-id="" tvg-name="Inkavisión (Cuzco)" tvg-logo="" group-title="PERU",Inkavisión (Cuzco)
+http://00322.xyz:8000/malotv/gratis/151509
+#EXTINF:-1 tvg-id="" tvg-name="Innova FM (Bagua Grande) SDT *" tvg-logo="" group-title="PERU",Innova FM (Bagua Grande) SDT *
+http://00322.xyz:8000/malotv/gratis/151510
+#EXTINF:-1 tvg-id="" tvg-name="JN19 HD *" tvg-logo="" group-title="PERU",JN19 HD *
+http://00322.xyz:8000/malotv/gratis/151511
+#EXTINF:-1 tvg-id="" tvg-name="JNE TV HD *" tvg-logo="" group-title="PERU",JNE TV HD *
+http://00322.xyz:8000/malotv/gratis/151512
+#EXTINF:-1 tvg-id="" tvg-name="Kachorro (Super TV | Amazonas) HD *" tvg-logo="" group-title="PERU",Kachorro (Super TV | Amazonas) HD *
+http://00322.xyz:8000/malotv/gratis/151513
+#EXTINF:-1 tvg-id="" tvg-name="Karibeña HD *" tvg-logo="" group-title="PERU",Karibeña HD *
+http://00322.xyz:8000/malotv/gratis/151514
+#EXTINF:-1 tvg-id="" tvg-name="KBO Quillabamba FHD *" tvg-logo="" group-title="PERU",KBO Quillabamba FHD *
+http://00322.xyz:8000/malotv/gratis/151515
+#EXTINF:-1 tvg-id="" tvg-name="KeBuena (Barranca) SDT *" tvg-logo="" group-title="PERU",KeBuena (Barranca) SDT *
+http://00322.xyz:8000/malotv/gratis/151516
+#EXTINF:-1 tvg-id="" tvg-name="Kora TV SD *" tvg-logo="" group-title="PERU",Kora TV SD *
+http://00322.xyz:8000/malotv/gratis/151517
+#EXTINF:-1 tvg-id="" tvg-name="La Abeja HD *" tvg-logo="" group-title="PERU",La Abeja HD *
+http://00322.xyz:8000/malotv/gratis/151518
+#EXTINF:-1 tvg-id="" tvg-name="La Luz TV HD *" tvg-logo="" group-title="PERU",La Luz TV HD *
+http://00322.xyz:8000/malotv/gratis/151519
+#EXTINF:-1 tvg-id="" tvg-name="KORA TV (Pucallpa) HD *" tvg-logo="" group-title="PERU",KORA TV (Pucallpa) HD *
+http://00322.xyz:8000/malotv/gratis/151520
+#EXTINF:-1 tvg-id="Latina.pe" tvg-name="Latina" tvg-logo="" group-title="PERU",Latina
+http://00322.xyz:8000/malotv/gratis/151521
+#EXTINF:-1 tvg-id="" tvg-name="LimaLive SDT *" tvg-logo="" group-title="PERU",LimaLive SDT *
+http://00322.xyz:8000/malotv/gratis/151522
+#EXTINF:-1 tvg-id="" tvg-name="LotPlus TV (Chiclayo) HD *" tvg-logo="" group-title="PERU",LotPlus TV (Chiclayo) HD *
+http://00322.xyz:8000/malotv/gratis/151523
+#EXTINF:-1 tvg-id="" tvg-name="Master TV (Tarapoto) SDT *" tvg-logo="" group-title="PERU",Master TV (Tarapoto) SDT *
+http://00322.xyz:8000/malotv/gratis/151524
+#EXTINF:-1 tvg-id="" tvg-name="MaticesTV (Cañete) HD *" tvg-logo="" group-title="PERU",MaticesTV (Cañete) HD *
+http://00322.xyz:8000/malotv/gratis/151525
+#EXTINF:-1 tvg-id="" tvg-name="Mega TV (Arequipa) SD *" tvg-logo="" group-title="PERU",Mega TV (Arequipa) SD *
+http://00322.xyz:8000/malotv/gratis/151526
+#EXTINF:-1 tvg-id="" tvg-name="Mega TV (Tarapoto) SDT *" tvg-logo="" group-title="PERU",Mega TV (Tarapoto) SDT *
+http://00322.xyz:8000/malotv/gratis/151527
+#EXTINF:-1 tvg-id="" tvg-name="Metropolitana del Cuzco (CCTVRadio) HD *" tvg-logo="" group-title="PERU",Metropolitana del Cuzco (CCTVRadio) HD *
+http://00322.xyz:8000/malotv/gratis/151528
+#EXTINF:-1 tvg-id="" tvg-name="Millenium 49 TV (Pucallpa) HD *" tvg-logo="" group-title="PERU",Millenium 49 TV (Pucallpa) HD *
+http://00322.xyz:8000/malotv/gratis/151529
+#EXTINF:-1 tvg-id="" tvg-name="Millenium 109 FM (Lamas) HD *" tvg-logo="" group-title="PERU",Millenium 109 FM (Lamas) HD *
+http://00322.xyz:8000/malotv/gratis/151530
+#EXTINF:-1 tvg-id="" tvg-name="MitosTV (Mitos de la Selva | Pucallpa) SDT *" tvg-logo="" group-title="PERU",MitosTV (Mitos de la Selva | Pucallpa) SDT *
+http://00322.xyz:8000/malotv/gratis/151531
+#EXTINF:-1 tvg-id="" tvg-name="Moda Huancayo TV" tvg-logo="" group-title="PERU",Moda Huancayo TV
+http://00322.xyz:8000/malotv/gratis/151532
+#EXTINF:-1 tvg-id="" tvg-name="Monterrico TV FHD *" tvg-logo="" group-title="PERU",Monterrico TV FHD *
+http://00322.xyz:8000/malotv/gratis/151533
+#EXTINF:-1 tvg-id="" tvg-name="MTV Más (Ancash) HD *" tvg-logo="" group-title="PERU",MTV Más (Ancash) HD *
+http://00322.xyz:8000/malotv/gratis/151534
+#EXTINF:-1 tvg-id="" tvg-name="NacionalTV HD *" tvg-logo="" group-title="PERU",NacionalTV HD *
+http://00322.xyz:8000/malotv/gratis/151535
+#EXTINF:-1 tvg-id="" tvg-name="Nazarenas TV HD *" tvg-logo="" group-title="PERU",Nazarenas TV HD *
+http://00322.xyz:8000/malotv/gratis/151536
+#EXTINF:-1 tvg-id="" tvg-name="NorSelva RTV (Rioja) SD *" tvg-logo="" group-title="PERU",NorSelva RTV (Rioja) SD *
+http://00322.xyz:8000/malotv/gratis/151537
+#EXTINF:-1 tvg-id="" tvg-name="Oasis RTV (Trujillo) HD *" tvg-logo="" group-title="PERU",Oasis RTV (Trujillo) HD *
+http://00322.xyz:8000/malotv/gratis/151538
+#EXTINF:-1 tvg-id="" tvg-name="OK TeVe (Yurimaguas) HD *" tvg-logo="" group-title="PERU",OK TeVe (Yurimaguas) HD *
+http://00322.xyz:8000/malotv/gratis/151539
+#EXTINF:-1 tvg-id="" tvg-name="Omega TV (Yurimaguas) SDT *" tvg-logo="" group-title="PERU",Omega TV (Yurimaguas) SDT *
+http://00322.xyz:8000/malotv/gratis/151540
+#EXTINF:-1 tvg-id="" tvg-name="Onda Digital HD *" tvg-logo="" group-title="PERU",Onda Digital HD *
+http://00322.xyz:8000/malotv/gratis/151541
+#EXTINF:-1 tvg-id="" tvg-name="Onda Digital HD *" tvg-logo="" group-title="PERU",Onda Digital HD *
+http://00322.xyz:8000/malotv/gratis/151542
+#EXTINF:-1 tvg-id="" tvg-name="Oriental TV 21 (Pucallpa) SDT *" tvg-logo="" group-title="PERU",Oriental TV 21 (Pucallpa) SDT *
+http://00322.xyz:8000/malotv/gratis/151543
+#EXTINF:-1 tvg-id="" tvg-name="Ovacion TV HD *" tvg-logo="" group-title="PERU",Ovacion TV HD *
+http://00322.xyz:8000/malotv/gratis/151544
+#EXTINF:-1 tvg-id="" tvg-name="Ovación TV HD *" tvg-logo="" group-title="PERU",Ovación TV HD *
+http://00322.xyz:8000/malotv/gratis/151545
+#EXTINF:-1 tvg-id="" tvg-name="Pax TV SDT *" tvg-logo="" group-title="PERU",Pax TV SDT *
+http://00322.xyz:8000/malotv/gratis/151546
+#EXTINF:-1 tvg-id="PeruMagico.pe" tvg-name="Peru Magico SDT *" tvg-logo="" group-title="PERU",Peru Magico SDT *
+http://00322.xyz:8000/malotv/gratis/151547
+#EXTINF:-1 tvg-id="" tvg-name="PeruvianRadio TV SD *" tvg-logo="" group-title="PERU",PeruvianRadio TV SD *
+http://00322.xyz:8000/malotv/gratis/151548
+#EXTINF:-1 tvg-id="" tvg-name="PiuraTV HD *" tvg-logo="" group-title="PERU",PiuraTV HD *
+http://00322.xyz:8000/malotv/gratis/151549
+#EXTINF:-1 tvg-id="" tvg-name="Planeta TV Bagua HD *" tvg-logo="" group-title="PERU",Planeta TV Bagua HD *
+http://00322.xyz:8000/malotv/gratis/151550
+#EXTINF:-1 tvg-id="" tvg-name="MASTER TV Moyobamba HD *" tvg-logo="" group-title="PERU",MASTER TV Moyobamba HD *
+http://00322.xyz:8000/malotv/gratis/151551
+#EXTINF:-1 tvg-id="" tvg-name="Primavera 15 Radiotelevisión (Moquegua) HD *" tvg-logo="" group-title="PERU",Primavera 15 Radiotelevisión (Moquegua) HD *
+http://00322.xyz:8000/malotv/gratis/151552
+#EXTINF:-1 tvg-id="" tvg-name="Pucallpa Televisión SD *" tvg-logo="" group-title="PERU",Pucallpa Televisión SD *
+http://00322.xyz:8000/malotv/gratis/151553
+#EXTINF:-1 tvg-id="" tvg-name="QT Televisión (Cuzco) HD *" tvg-logo="" group-title="PERU",QT Televisión (Cuzco) HD *
+http://00322.xyz:8000/malotv/gratis/151554
+#EXTINF:-1 tvg-id="" tvg-name="Quillavision (Cuzco) HD *" tvg-logo="" group-title="PERU",Quillavision (Cuzco) HD *
+http://00322.xyz:8000/malotv/gratis/151555
+#EXTINF:-1 tvg-id="" tvg-name="Radio Chalaca HD *" tvg-logo="" group-title="PERU",Radio Chalaca HD *
+http://00322.xyz:8000/malotv/gratis/151556
+#EXTINF:-1 tvg-id="" tvg-name="Radio Pachatusan (Cuzco) HD *" tvg-logo="" group-title="PERU",Radio Pachatusan (Cuzco) HD *
+http://00322.xyz:8000/malotv/gratis/151558
+#EXTINF:-1 tvg-id="" tvg-name="Radio San Borja TV HD *" tvg-logo="" group-title="PERU",Radio San Borja TV HD *
+http://00322.xyz:8000/malotv/gratis/151559
+#EXTINF:-1 tvg-id="" tvg-name="Radio Tropical Tarapoto SDT *" tvg-logo="" group-title="PERU",Radio Tropical Tarapoto SDT *
+http://00322.xyz:8000/malotv/gratis/151560
+#EXTINF:-1 tvg-id="" tvg-name="Radio TV Juanjui SDT *" tvg-logo="" group-title="PERU",Radio TV Juanjui SDT *
+http://00322.xyz:8000/malotv/gratis/151563
+#EXTINF:-1 tvg-id="" tvg-name="RadioTV Oriente (Yurimaguas) FHD *" tvg-logo="" group-title="PERU",RadioTV Oriente (Yurimaguas) FHD *
+http://00322.xyz:8000/malotv/gratis/151564
+#EXTINF:-1 tvg-id="" tvg-name="Radio Xtrema *" tvg-logo="" group-title="PERU",Radio Xtrema *
+http://00322.xyz:8000/malotv/gratis/151565
+#EXTINF:-1 tvg-id="" tvg-name="Red de Comunicación Regional (RCR) HD *" tvg-logo="" group-title="PERU",Red de Comunicación Regional (RCR) HD *
+http://00322.xyz:8000/malotv/gratis/151567
+#EXTINF:-1 tvg-id="" tvg-name="Región TV (Callao) SDT *" tvg-logo="" group-title="PERU",Región TV (Callao) SDT *
+http://00322.xyz:8000/malotv/gratis/151568
+#EXTINF:-1 tvg-id="" tvg-name="Ribereña TV (Bellavista) SD *" tvg-logo="" group-title="PERU",Ribereña TV (Bellavista) SD *
+http://00322.xyz:8000/malotv/gratis/151569
+#EXTINF:-1 tvg-id="" tvg-name="RN Televisión (Yurimaguas) HD *" tvg-logo="" group-title="PERU",RN Televisión (Yurimaguas) HD *
+http://00322.xyz:8000/malotv/gratis/151570
+#EXTINF:-1 tvg-id="" tvg-name="RPP SDT *" tvg-logo="" group-title="PERU",RPP SDT *
+http://00322.xyz:8000/malotv/gratis/151571
+#EXTINF:-1 tvg-id="" tvg-name="RSelvaTV (Tarapoto) HD *" tvg-logo="" group-title="PERU",RSelvaTV (Tarapoto) HD *
+http://00322.xyz:8000/malotv/gratis/151572
+#EXTINF:-1 tvg-id="" tvg-name="RTV Total (Yurimaguas) SDT *" tvg-logo="" group-title="PERU",RTV Total (Yurimaguas) SDT *
+http://00322.xyz:8000/malotv/gratis/151573
+#EXTINF:-1 tvg-id="RumbaTV.co" tvg-name="RumbaMix TV FHD *" tvg-logo="" group-title="PERU",RumbaMix TV FHD *
+http://00322.xyz:8000/malotv/gratis/151574
+#EXTINF:-1 tvg-id="" tvg-name="RW Televisión (Tarapoto) *" tvg-logo="" group-title="PERU",RW Televisión (Tarapoto) *
+http://00322.xyz:8000/malotv/gratis/151575
+#EXTINF:-1 tvg-id="" tvg-name="SanjuaneraTV FHD *" tvg-logo="" group-title="PERU",SanjuaneraTV FHD *
+http://00322.xyz:8000/malotv/gratis/151576
+#EXTINF:-1 tvg-id="" tvg-name="SatelTV (Puno) HD *" tvg-logo="" group-title="PERU",SatelTV (Puno) HD *
+http://00322.xyz:8000/malotv/gratis/151577
+#EXTINF:-1 tvg-id="" tvg-name="SelvaMía TV (Aguaytía) SD *" tvg-logo="" group-title="PERU",SelvaMía TV (Aguaytía) SD *
+http://00322.xyz:8000/malotv/gratis/151578
+#EXTINF:-1 tvg-id="" tvg-name="Sistema 1 (Huaraz) HD *" tvg-logo="" group-title="PERU",Sistema 1 (Huaraz) HD *
+http://00322.xyz:8000/malotv/gratis/151579
+#EXTINF:-1 tvg-id="" tvg-name="JN19 TV (Huaraz) HD *" tvg-logo="" group-title="PERU",JN19 TV (Huaraz) HD *
+http://00322.xyz:8000/malotv/gratis/151580
+#EXTINF:-1 tvg-id="" tvg-name="Sol Stereo TV (Casma) SD *" tvg-logo="" group-title="PERU",Sol Stereo TV (Casma) SD *
+http://00322.xyz:8000/malotv/gratis/151581
+#EXTINF:-1 tvg-id="" tvg-name="Stereo TV (Peru) HD *" tvg-logo="" group-title="PERU",Stereo TV (Peru) HD *
+http://00322.xyz:8000/malotv/gratis/151583
+#EXTINF:-1 tvg-id="" tvg-name="Sumac TV (Lima) SDT *" tvg-logo="" group-title="PERU",Sumac TV (Lima) SDT *
+http://00322.xyz:8000/malotv/gratis/151584
+#EXTINF:-1 tvg-id="" tvg-name="Super Canal (Yurimaguas) HD *" tvg-logo="" group-title="PERU",Super Canal (Yurimaguas) HD *
+http://00322.xyz:8000/malotv/gratis/151585
+#EXTINF:-1 tvg-id="" tvg-name="Tele2000 (Ayacucho) HD *" tvg-logo="" group-title="PERU",Tele2000 (Ayacucho) HD *
+http://00322.xyz:8000/malotv/gratis/151587
+#EXTINF:-1 tvg-id="" tvg-name="Telesur (Camana) SDT *" tvg-logo="" group-title="PERU",Telesur (Camana) SDT *
+http://00322.xyz:8000/malotv/gratis/151588
+#EXTINF:-1 tvg-id="" tvg-name="Telesur (Ilo) HD *" tvg-logo="" group-title="PERU",Telesur (Ilo) HD *
+http://00322.xyz:8000/malotv/gratis/151589
+#EXTINF:-1 tvg-id="" tvg-name="Televisión Tarapoto HD *" tvg-logo="" group-title="PERU",Televisión Tarapoto HD *
+http://00322.xyz:8000/malotv/gratis/151593
+#EXTINF:-1 tvg-id="" tvg-name="Top FM TV (Atalaya) SD *" tvg-logo="" group-title="PERU",Top FM TV (Atalaya) SD *
+http://00322.xyz:8000/malotv/gratis/151595
+#EXTINF:-1 tvg-id="" tvg-name="TPTO TV (Tarapoto) HD *" tvg-logo="" group-title="PERU",TPTO TV (Tarapoto) HD *
+http://00322.xyz:8000/malotv/gratis/151596
+#EXTINF:-1 tvg-id="" tvg-name="Tumpis TV (Tumbes) HD *" tvg-logo="" group-title="PERU",Tumpis TV (Tumbes) HD *
+http://00322.xyz:8000/malotv/gratis/151597
+#EXTINF:-1 tvg-id="" tvg-name="IMPERIAL TV FHD *" tvg-logo="" group-title="PERU",IMPERIAL TV FHD *
+http://00322.xyz:8000/malotv/gratis/151598
+#EXTINF:-1 tvg-id="" tvg-name="IMPACTO TV HD *" tvg-logo="" group-title="PERU",IMPACTO TV HD *
+http://00322.xyz:8000/malotv/gratis/151599
+#EXTINF:-1 tvg-id="" tvg-name="TV Cosmos HD *" tvg-logo="" group-title="PERU",TV Cosmos HD *
+http://00322.xyz:8000/malotv/gratis/151601
+#EXTINF:-1 tvg-id="" tvg-name="TVenLinea (Cuzco) HD *" tvg-logo="" group-title="PERU",TVenLinea (Cuzco) HD *
+http://00322.xyz:8000/malotv/gratis/151602
+#EXTINF:-1 tvg-id="" tvg-name="Tvfaces Online SD *" tvg-logo="" group-title="PERU",Tvfaces Online SD *
+http://00322.xyz:8000/malotv/gratis/151603
+#EXTINF:-1 tvg-id="" tvg-name="TV Palmeras SDT *" tvg-logo="" group-title="PERU",TV Palmeras SDT *
+http://00322.xyz:8000/malotv/gratis/151604
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="TV Perú SD *" tvg-logo="" group-title="PERU",TV Perú SD *
+http://00322.xyz:8000/malotv/gratis/151605
+#EXTINF:-1 tvg-id="" tvg-name="TV Peruanísima HD *" tvg-logo="" group-title="PERU",TV Peruanísima HD *
+http://00322.xyz:8000/malotv/gratis/151606
+#EXTINF:-1 tvg-id="" tvg-name="TV Perú Internacional SDT *" tvg-logo="" group-title="PERU",TV Perú Internacional SDT *
+http://00322.xyz:8000/malotv/gratis/151607
+#EXTINF:-1 tvg-id="" tvg-name="TV Perú Noticias HD *" tvg-logo="" group-title="PERU",TV Perú Noticias HD *
+http://00322.xyz:8000/malotv/gratis/151608
+#EXTINF:-1 tvg-id="" tvg-name="TV Sistemas Cuzco (Cuzco) SD *" tvg-logo="" group-title="PERU",TV Sistemas Cuzco (Cuzco) SD *
+http://00322.xyz:8000/malotv/gratis/151610
+#EXTINF:-1 tvg-id="" tvg-name="UCI HD *" tvg-logo="" group-title="PERU",UCI HD *
+http://00322.xyz:8000/malotv/gratis/151611
+#EXTINF:-1 tvg-id="" tvg-name="Unitel (Huancayo) HD *" tvg-logo="" group-title="PERU",Unitel (Huancayo) HD *
+http://00322.xyz:8000/malotv/gratis/151612
+#EXTINF:-1 tvg-id="" tvg-name="IDENTIDAD TV (Chanchamayo) HD *" tvg-logo="" group-title="PERU",IDENTIDAD TV (Chanchamayo) HD *
+http://00322.xyz:8000/malotv/gratis/151613
+#EXTINF:-1 tvg-id="" tvg-name="Huacho TV (Yurimaguas) HD *" tvg-logo="" group-title="PERU",Huacho TV (Yurimaguas) HD *
+http://00322.xyz:8000/malotv/gratis/151614
+#EXTINF:-1 tvg-id="" tvg-name="VamisaTV (Lima) SDT *" tvg-logo="" group-title="PERU",VamisaTV (Lima) SDT *
+http://00322.xyz:8000/malotv/gratis/151617
+#EXTINF:-1 tvg-id="" tvg-name="Vía Altomayo HD *" tvg-logo="" group-title="PERU",Vía Altomayo HD *
+http://00322.xyz:8000/malotv/gratis/151618
+#EXTINF:-1 tvg-id="" tvg-name="Visión Noticias Perú (VNP) HD *" tvg-logo="" group-title="PERU",Visión Noticias Perú (VNP) HD *
+http://00322.xyz:8000/malotv/gratis/151620
+#EXTINF:-1 tvg-id="" tvg-name="K-Pop Channel" tvg-logo="" group-title="PERU",K-Pop Channel
+http://00322.xyz:8000/malotv/gratis/151624
+#EXTINF:-1 tvg-id="" tvg-name="Auténtica Televisión HD *" tvg-logo="" group-title="PERU",Auténtica Televisión HD *
+http://00322.xyz:8000/malotv/gratis/151625
+#EXTINF:-1 tvg-id="" tvg-name="Telecolor (Yurimaguas) HD *" tvg-logo="" group-title="PERU",Telecolor (Yurimaguas) HD *
+http://00322.xyz:8000/malotv/gratis/151626
+#EXTINF:-1 tvg-id="" tvg-name="Tropical TV (Puerto Maldonado) HD *" tvg-logo="" group-title="PERU",Tropical TV (Puerto Maldonado) HD *
+http://00322.xyz:8000/malotv/gratis/151628
+#EXTINF:-1 tvg-id="" tvg-name="Andes Televisión (Sicusani) HD *" tvg-logo="" group-title="PERU",Andes Televisión (Sicusani) HD *
+http://00322.xyz:8000/malotv/gratis/151630
+#EXTINF:-1 tvg-id="" tvg-name="BEST CABLE (HatunTV) SDT *" tvg-logo="" group-title="PERU",BEST CABLE (HatunTV) SDT *
+http://00322.xyz:8000/malotv/gratis/151631
+#EXTINF:-1 tvg-id="" tvg-name="MINEDU IPTV 1 SD *" tvg-logo="" group-title="PERU",MINEDU IPTV 1 SD *
+http://00322.xyz:8000/malotv/gratis/151632
+#EXTINF:-1 tvg-id="" tvg-name="MINEDU IPTV 2 SD *" tvg-logo="" group-title="PERU",MINEDU IPTV 2 SD *
+http://00322.xyz:8000/malotv/gratis/151633
+#EXTINF:-1 tvg-id="" tvg-name="CharapaTV (Pucallpa) *" tvg-logo="" group-title="PERU",CharapaTV (Pucallpa) *
+http://00322.xyz:8000/malotv/gratis/151634
+#EXTINF:-1 tvg-id="" tvg-name="RadioInka (Abancay) FHD *" tvg-logo="" group-title="PERU",RadioInka (Abancay) FHD *
+http://00322.xyz:8000/malotv/gratis/151635
+#EXTINF:-1 tvg-id="" tvg-name="ATM Televisión HD *" tvg-logo="" group-title="PERU",ATM Televisión HD *
+http://00322.xyz:8000/malotv/gratis/151637
+#EXTINF:-1 tvg-id="" tvg-name="27 | TV PERÚ NOTICIAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="PERU",27 | TV PERÚ NOTICIAS HD
+http://00322.xyz:8000/malotv/gratis/150360
+#EXTINF:-1 tvg-id="" tvg-name="25 | BH TV HD " tvg-logo="https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg" group-title="PERU",25 | BH TV HD 
+http://00322.xyz:8000/malotv/gratis/140818
+#EXTINF:-1 tvg-id="" tvg-name="01 | GOL PERU HD" tvg-logo="" group-title="PERU" | GOL PERU HD 1
+http://00322.xyz:8000/malotv/gratis/140568
+#EXTINF:-1 tvg-id="" tvg-name="02 | GOL PERU FHD" group-title="PERU" | GOL PERU FHD 1
+http://00322.xyz:8000/malotv/gratis/140569
+#EXTINF:-1 tvg-id="" tvg-name="03 | LATINA" tvg-logo="" group-title="PERU" | LATINA
+http://00322.xyz:8000/malotv/gratis/140570
+#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="04 | MOVISTAR DEPORTES" tvg-logo="" group-title="PERU" | MOVISTAR DEPORTES
+http://00322.xyz:8000/malotv/gratis/140572
+#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="05 | MOVISTAR DEPORTES" tvg-logo="" group-title="PERU" | MOVISTAR DEPORTES
+http://00322.xyz:8000/malotv/gratis/140574
+#EXTINF:-1 tvg-id="" tvg-name="21 | GOL PERU" tvg-logo="https://brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="PERU",21 | GOL PERU
+http://00322.xyz:8000/malotv/gratis/132292
+#EXTINF:-1 tvg-id="" tvg-name="22 |  MONTERRICO TV" tvg-logo="https://forounivers.com/uploads/monthly_2017_11/large.5a18734b7b911_MonterricoTV.png.07fea7992f2302661fe0953bb4010ebf.png" group-title="PERU",22 |  MONTERRICO TV
+http://00322.xyz:8000/malotv/gratis/131700
+#EXTINF:-1 tvg-id="" tvg-name="21 | EXITOSA NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="PERU",21 | EXITOSA NOTICIAS
+http://00322.xyz:8000/malotv/gratis/126668
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="22 | TV PERU SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="PERU",22 | TV PERU SUR
+http://00322.xyz:8000/malotv/gratis/4900
+#EXTINF:-1 tvg-id="" tvg-name="SUR | RPP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="PERU" | RPP
+http://00322.xyz:8000/malotv/gratis/4845
+#EXTINF:-1 tvg-id="" tvg-name="SUR | ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png" group-title="PERU" | ATV
+http://00322.xyz:8000/malotv/gratis/4843
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="SUR | AMERICA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Am%C3%A9rica_Televisi%C3%B3n_logo_2016.png" group-title="PERU" | AMERICA TV
+http://00322.xyz:8000/malotv/gratis/4834
+#EXTINF:-1 tvg-id="" tvg-name="SUR | CANAL N" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/canal-1-logo.png" group-title="PERU" | CANAL N
+http://00322.xyz:8000/malotv/gratis/4835
+#EXTINF:-1 tvg-id="" tvg-name="SUR | CMD" tvg-logo="https://2.bp.blogspot.com/-bv4wVCJrQoo/T0K9bXfoacI/AAAAAAAAB0c/HohDzQlvB0c/s1600/cmd_logo1.png" group-title="PERU" | CMD
+http://00322.xyz:8000/malotv/gratis/4836
+#EXTINF:-1 tvg-id="" tvg-name="SUR | LATINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Latina_%282014-presente%29.png" group-title="PERU" | LATINA
+http://00322.xyz:8000/malotv/gratis/4837
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="SUR | PANAMERICANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" group-title="PERU" | PANAMERICANA
+http://00322.xyz:8000/malotv/gratis/4838
+#EXTINF:-1 tvg-id="" tvg-name="02 | PERU MAGICO SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Per%C3%BA_M%C3%A1gico_%28Logo_2014%29.png" group-title="CANALES AMÉRICA SUR HD",02 | PERU MAGICO SUR
+http://00322.xyz:8000/malotv/gratis/4839
+#EXTINF:-1 tvg-id="" tvg-name="SUR | Movistar PLUS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="PERU" | Movistar PLUS TV
+http://00322.xyz:8000/malotv/gratis/4840
+#EXTINF:-1 tvg-id="" tvg-name="SUR | GOLPERU" tvg-logo="https://1.bp.blogspot.com/-9xoQUbxyXJM/XRm2Ajw2LiI/AAAAAAAAEao/j818WFdzRI4Hi6XpbHAQn_LKT5Kg6nzygCPcBGAYYCw/s1600/Gol%2BPeru.png" group-title="PERU" | GOLPERU
+http://00322.xyz:8000/malotv/gratis/4841
+#EXTINF:-1 tvg-id="" tvg-name="SUR | MOVISTAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Movistar_TV_%28Latin_America%29_-_2018_logo.png/640px-Movistar_TV_%28Latin_America%29_-_2018_logo.png" group-title="PERU" | MOVISTAR TV
+http://00322.xyz:8000/malotv/gratis/4830
+#EXTINF:-1 tvg-id="GolTV.us" tvg-name="SUR | GOL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="PERU" | GOL TV
+http://00322.xyz:8000/malotv/gratis/4827
+#EXTINF:-1 tvg-id="" tvg-name="SUR | GOL TV PERU" tvg-logo="https://golperu.s3.amazonaws.com/assets/golperu_sharefb.png" group-title="PERU" | GOL TV PERU
+http://00322.xyz:8000/malotv/gratis/4828
+#EXTINF:-1 tvg-id="" tvg-name="SUR | FRECUENCIA LATINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Frecuencia_Latina.svg/1024px-Frecuencia_Latina.svg.png" group-title="PERU" | FRECUENCIA LATINA
+http://00322.xyz:8000/malotv/gratis/4814
+
+
+====================================================================================================================
 PERU
 
 #EXTINF:-1 tvg-id=" 1 " group-title="PERU" tvg-logo="https://www.m3u.cl/logo/488_Anime_Zone_TV.png"tvg-country="PE", 1 ANIME ZONE TV
